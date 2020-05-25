@@ -16,12 +16,12 @@ const jeda = "3"
   const { username, password } = await inquirer.prompt([
     {
       type: 'input',
-      name: 'username',
+      name: 'copasbot.id',
       message: 'Username'
     },
     {
       type: 'password',
-      name: 'password',
+      name: 'asw123',
       message: 'Password',
       mask: true
     }
